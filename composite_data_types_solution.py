@@ -1,5 +1,5 @@
 # Lab 8: Composite Data Type
-
+# A composite data type is any data type that is comprised of primitive data types.
 import csv
 import copy
 

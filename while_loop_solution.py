@@ -17,7 +17,7 @@ while isGuessRight != True:
     guess = input("Guess a number between 1 and 10: ")
     # Is the gues the right number?
     if int(guess) == number:
-        # If the right guess, tell the uesr it was the right guess
+        # If the right guess, tell the user it was the right guess
         # and continue the loop.
         print("You guessed {}. That is right! You win!".format(guess))
         isGuessRight = True
